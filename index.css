@@ -19,7 +19,7 @@ body {
     margin-top: 5px;
     margin-bottom: 25px
 }
-/* 
+ 
 .loader {
     background: whitesmoke;
     height: 100vh;
@@ -29,7 +29,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+} 
 
 .navigation-container {
     position: fixed;
